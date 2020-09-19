@@ -9,23 +9,18 @@
 
 ## Nom
 
-Skywalker
+Tahri
 
 ## Prénom
 
-Luke
+Moussa
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Moussa tahri.
+je suis étudiant en bachelier informatique de gestion.
+je suis tombé par hasard sur le monde de la programmation et j'y suis resté par amour.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
-
-J'ai hâte d'apprendre à programmer en JavaScript.
+J'ai hâte de commencer le cours et ainsi accumuler plus de connaissance.
